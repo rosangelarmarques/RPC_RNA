@@ -17,3 +17,10 @@ Neural networks framework in CPN-Tools. It has several created functions that se
 
 :black_circle: CPN Tools:  https://cpntools.org/
 
+# Autores
+
+![a1 (1)](https://user-images.githubusercontent.com/106780027/210100683-d96559fb-c371-4124-83fa-eb38256f6786.png) <br><sub>Rosângela Marques de Albuquerque</sub>
+
+![corneli](https://user-images.githubusercontent.com/106780027/210100763-5f0d1d61-af14-4c97-a4c6-0f01e1eb1961.png)
+<br><sub>Corneli Gomes Furtado Júnior</sub>
+
