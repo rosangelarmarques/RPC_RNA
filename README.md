@@ -13,3 +13,7 @@ Neural networks framework in CPN-Tools. It has several created functions that se
 - `Feature 4`:  Files of type: record_cardi_teste.txt are the databases in record format: Iris, Dermatology, WFRN, Cardiotocography and Seismic-bumps. All databases were extracted from the UCI repository: [site repository UCI](https://archive.ics.uci.edu/ml/index.php)
 - `Feature 5`: files type: ##MLP_backpropagation_derm2.cpn: these are MLP artificial neural networks in CPN Tools.
 
+**:white_check_mark: tecnologias utilizadas no projeto**
+
+:black_circle: CPN Tools:  https://cpntools.org/
+
