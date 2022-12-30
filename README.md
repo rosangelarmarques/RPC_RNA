@@ -21,7 +21,10 @@ Neural networks framework in CPN-Tools. It has several created functions that se
 
 ![a1 (1)](https://user-images.githubusercontent.com/106780027/210100683-d96559fb-c371-4124-83fa-eb38256f6786.png) <br><sub>Rosângela Marques de Albuquerque</sub>
 
-![corneli2](https://user-images.githubusercontent.com/106780027/210101151-fda8337f-f522-44ae-a245-5c82f2283b99.png)<br><sub>Corneli Gomes Furtado Júnior</sub>
+![corneli1](https://user-images.githubusercontent.com/106780027/210101827-2635ff4c-48ac-48d6-996b-250a9f997430.png) <br><sub>Corneli Gomes Furtado Júnior</sub>
 
 
+![foto_gio (1)](https://user-images.githubusercontent.com/106780027/210102062-554ace4e-1fed-45ec-8193-e2db98dd4a44.png) <br><sub>Giovanni Cordeiro Barroso</sub>
+
+![foto_guilherme (1)](https://user-images.githubusercontent.com/106780027/210102071-2693a9fc-cc7f-47b5-8f0c-f6f4c3d4fae6.png) <br><sub>Guilherme de Alencar Barreto</sub>
 
